@@ -1,0 +1,8 @@
+C:\Users\Travis-PC\Desktop\TripsieCore\TripsieCore\bin\Debug\netcoreapp1.1\TripsieCore.deps.json
+C:\Users\Travis-PC\Desktop\TripsieCore\TripsieCore\bin\Debug\netcoreapp1.1\TripsieCore.runtimeconfig.json
+C:\Users\Travis-PC\Desktop\TripsieCore\TripsieCore\bin\Debug\netcoreapp1.1\TripsieCore.runtimeconfig.dev.json
+C:\Users\Travis-PC\Desktop\TripsieCore\TripsieCore\bin\Debug\netcoreapp1.1\TripsieCore.dll
+C:\Users\Travis-PC\Desktop\TripsieCore\TripsieCore\obj\Debug\netcoreapp1.1\TripsieCore.AssemblyInfo.cs
+C:\Users\Travis-PC\Desktop\TripsieCore\TripsieCore\bin\Debug\netcoreapp1.1\TripsieCore.pdb
+C:\Users\Travis-PC\Desktop\TripsieCore\TripsieCore\obj\Debug\netcoreapp1.1\TripsieCore.dll
+C:\Users\Travis-PC\Desktop\TripsieCore\TripsieCore\obj\Debug\netcoreapp1.1\TripsieCore.pdb
